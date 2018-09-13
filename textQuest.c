@@ -7,11 +7,11 @@ void load()
 
 int main()
 {
-	printf("+------------------------+\n");
-    printf("|                        |\n");
-    printf("|       CODE QUEST       |\n");
-    printf("|                        |\n");
-    printf("+------------------------+\n\n");
+  printf("+------------------------+\n");
+  printf("|                        |\n");
+  printf("|       TEXT QUEST       |\n");
+  printf("|                        |\n");
+  printf("+------------------------+\n\n");
 
 	printf("--Main Menu--\n\n");
 	printf("1 - New Game\n");
