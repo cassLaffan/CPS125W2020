@@ -33,6 +33,18 @@ void train(float *days_remaining, int *hp_remaining, int *experience){
 
 	}
 
+  void ActionMainMenu(){
+
+  	printf("1 - Rest at Inn\n");
+  	printf("2 - Train\n");
+  	printf("3 - Fought Monster\n");
+  	printf("4 - Fight the Demon Lord\n");
+  	printf("5 - Return to Main Menu\n\n");
+
+  	printf("Select: ");
+
+  }
+
 void newgame()
 {
     int Strength;
