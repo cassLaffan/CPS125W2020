@@ -1,3 +1,3 @@
 # C
 
-This repository will be used by me to brush up on C and its basic concepts.
+This repository will serve as a hub for general C practice, including examples for the courses such as CPS125.
