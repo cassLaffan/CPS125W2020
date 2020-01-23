@@ -5,7 +5,9 @@
 
 /*This function acts as an example as to how to call functions from elsewhere.*/
 float exampleFunction(int exampleArgument){
+
     float exampleReturnValue = exampleArgument * 1.5;
+
     return exampleReturnValue;
 }
 
