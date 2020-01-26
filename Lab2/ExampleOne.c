@@ -2,7 +2,6 @@
 
 /*This program will demonstrate the proper formatting for a small C program.*/
 
-
 /*This function acts as an example as to how to call functions from elsewhere.*/
 float exampleFunction(int exampleArgument){
 
