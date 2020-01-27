@@ -1,11 +1,9 @@
 #include <stdio.h>
 
-/*This example will explore file I/O*/
-/*This program will read from one file and write to another.*/
+/*This example will explore calculating the surface area of a sphere*/
 
-int main(){
-    FILE *fileOne, *fileTwo;
+void main(void){
 
+    printf("%f", 3/4);
 
-    return 0;
 }
