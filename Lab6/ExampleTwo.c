@@ -24,6 +24,8 @@ int main(void){
     //Notice how we need the references to where we're storing these values?
     scanf("%lf %lf", &doubleOne, &doubleTwo);
 
+    //Whenever you use a function, it's called a "function call"
+    //(As in, you're calling on the function)
     double multiple = multiplyTwo(doubleOne, doubleTwo);
     printf("The value for the doubles multiplied together is: %.2lf \n", multiple);
 
